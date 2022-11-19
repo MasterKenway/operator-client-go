@@ -1,4 +1,4 @@
-module istio.io/client-go
+module github.com/MasterKenway/operator-client-go
 
 go 1.17
 
